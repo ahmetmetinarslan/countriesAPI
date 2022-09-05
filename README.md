@@ -9,9 +9,9 @@ Countries API<br>
 <hr>
 
 ![alt text](https://github.com/ahmetmetinarslan/countriesAPI/blob/main/1%20(1).png?raw=true)<br>
-![alt text](https://github.com/ahmetmetinarslan/countriesAPI/blob/main/1%20(2).png?raw=true)<br>
-![alt text](https://github.com/ahmetmetinarslan/countriesAPI/blob/main/1%20(3).png?raw=true)<br>
-![alt text](https://github.com/ahmetmetinarslan/countriesAPI/blob/main/1%20(4).png?raw=true)<br>
+![alt text](https://github.com/ahmetmetinarslan/countriesAPI/blob/main/2.png?raw=true)<br>
+![alt text](https://github.com/ahmetmetinarslan/countriesAPI/blob/main/3.png?raw=true)<br>
+![alt text](https://github.com/ahmetmetinarslan/countriesAPI/blob/main/4.png?raw=true)<br>
 
 
 
